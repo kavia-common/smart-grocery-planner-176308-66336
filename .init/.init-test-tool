@@ -1,0 +1,4 @@
+{
+    "command": "npm run test:unit",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-grocery-planner-176308-66336/frontend_vue"
+}
